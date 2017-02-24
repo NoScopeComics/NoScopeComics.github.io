@@ -1,7 +1,5 @@
-* {
-  position: center;
-}
-
 .header {
-position: center;
+position: relative;
+  top: 50px; 
+  left: 75px;
 }
